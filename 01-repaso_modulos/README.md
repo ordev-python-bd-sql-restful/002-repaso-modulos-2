@@ -1,6 +1,12 @@
-# Repaso módulos
+# Repaso de Módulos ✨🐍
 
-- Vimos distintas formas de importar símbolos desde un módulo.
-- Métodos dunner usados en los módulos para obtener información de los mismos.
+¡Qué onda! 👋 En esta sección, vamos a darle un repaso a los módulos de Python, ¡que son como piezas de LEGO para construir programas geniales!
 
-En esta sección el programa principal se encuentra en el archivo `program.py` y el archivo `module.py` es un ejemplo de un módulo simple.
+Aquí vas a encontrar:
+
+* **Importaciones con Estilo** 💫: Vimos varias formas de traer esos símbolos que necesitas de un módulo. ¡Es como invocar poderes especiales!
+* **Métodos "Dunder" al Rescate** 🕵️‍♂️: También le echamos un ojo a esos métodos especiales (los que empiezan y terminan con doble guion bajo, como `__name__`) que nos dan info súper útil sobre los módulos. ¡Son como el ADN de tu código!
+
+En este viaje, el archivo principal es `program.py`, que es donde arranca la acción. Y `module.py` es nuestro módulo de ejemplo, ¡sencillito pero poderoso!
+
+¡Sigue explorando! ¡El universo de Python te espera para que crees cosas increíbles! 🚀
